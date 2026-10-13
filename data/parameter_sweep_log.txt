@@ -1,0 +1,290 @@
+2026-07-05 18:47:14   ==========================================================================
+                      Sequence: Sequence 1
+                      ==========================================================================
+
+2026-07-05 18:47:14   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.4
+                         W = 0.14
+2026-07-05 18:47:16   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:47:41              Solver: Successful [0 hours, 0 min., 25 sec.]
+2026-07-05 18:47:41   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.4
+                         W = 0.16
+2026-07-05 18:47:44   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:48:12              Solver: Successful [0 hours, 0 min., 28 sec.]
+2026-07-05 18:48:12   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.4
+                         W = 0.18
+2026-07-05 18:48:14   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:48:41              Solver: Successful [0 hours, 0 min., 27 sec.]
+2026-07-05 18:48:41   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.4
+                         W = 0.2
+2026-07-05 18:48:43   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:49:09              Solver: Successful [0 hours, 0 min., 26 sec.]
+2026-07-05 18:49:09   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.4
+                         W = 0.22
+2026-07-05 18:49:11   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:49:41              Solver: Successful [0 hours, 0 min., 30 sec.]
+2026-07-05 18:49:41   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.4
+                         W = 0.24
+2026-07-05 18:49:44   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:50:15              Solver: Successful [0 hours, 0 min., 31 sec.]
+2026-07-05 18:50:15   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.4
+                         W = 0.26
+2026-07-05 18:50:17   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:50:44              Solver: Successful [0 hours, 0 min., 27 sec.]
+2026-07-05 18:50:44   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.6
+                         W = 0.14
+2026-07-05 18:50:47   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:51:16              Solver: Successful [0 hours, 0 min., 29 sec.]
+2026-07-05 18:51:16   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.6
+                         W = 0.16
+2026-07-05 18:51:18   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:51:47              Solver: Successful [0 hours, 0 min., 29 sec.]
+2026-07-05 18:51:47   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.6
+                         W = 0.18
+2026-07-05 18:51:49   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:52:26              Solver: Successful [0 hours, 0 min., 37 sec.]
+2026-07-05 18:52:26   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.6
+                         W = 0.2
+2026-07-05 18:52:28   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:53:01              Solver: Successful [0 hours, 0 min., 33 sec.]
+2026-07-05 18:53:01   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.6
+                         W = 0.22
+2026-07-05 18:53:03   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:53:35              Solver: Successful [0 hours, 0 min., 32 sec.]
+2026-07-05 18:53:35   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.6
+                         W = 0.24
+2026-07-05 18:53:38   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:54:14              Solver: Successful [0 hours, 0 min., 36 sec.]
+2026-07-05 18:54:14   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.6
+                         W = 0.26
+2026-07-05 18:54:17   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:54:44              Solver: Successful [0 hours, 0 min., 27 sec.]
+2026-07-05 18:54:44   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.8
+                         W = 0.14
+2026-07-05 18:54:46   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:55:15              Solver: Successful [0 hours, 0 min., 29 sec.]
+2026-07-05 18:55:15   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.8
+                         W = 0.16
+2026-07-05 18:55:17   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:55:48              Solver: Successful [0 hours, 0 min., 31 sec.]
+2026-07-05 18:55:48   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.8
+                         W = 0.18
+2026-07-05 18:55:50   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:56:22              Solver: Successful [0 hours, 0 min., 32 sec.]
+2026-07-05 18:56:22   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.8
+                         W = 0.2
+2026-07-05 18:56:24   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:56:55              Solver: Successful [0 hours, 0 min., 31 sec.]
+2026-07-05 18:56:55   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.8
+                         W = 0.22
+2026-07-05 18:56:57   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:57:25              Solver: Successful [0 hours, 0 min., 28 sec.]
+2026-07-05 18:57:25   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.8
+                         W = 0.24
+2026-07-05 18:57:27   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:57:57              Solver: Successful [0 hours, 0 min., 30 sec.]
+2026-07-05 18:57:57   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 0.8
+                         W = 0.26
+2026-07-05 18:58:00   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:58:27              Solver: Successful [0 hours, 0 min., 27 sec.]
+2026-07-05 18:58:27   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1
+                         W = 0.14
+2026-07-05 18:58:30   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 18:59:02              Solver: Successful [0 hours, 0 min., 32 sec.]
+2026-07-05 18:59:02   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1
+                         W = 0.16
+2026-07-05 18:59:04   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 18:59:32              Solver: Successful [0 hours, 0 min., 28 sec.]
+2026-07-05 18:59:32   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1
+                         W = 0.18
+2026-07-05 18:59:35   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 19:00:12              Solver: Successful [0 hours, 0 min., 37 sec.]
+2026-07-05 19:00:12   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1
+                         W = 0.2
+2026-07-05 19:00:14   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 19:00:48              Solver: Successful [0 hours, 0 min., 34 sec.]
+2026-07-05 19:00:48   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1
+                         W = 0.22
+2026-07-05 19:00:50   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 19:01:22              Solver: Successful [0 hours, 0 min., 32 sec.]
+2026-07-05 19:01:22   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1
+                         W = 0.24
+2026-07-05 19:01:24   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 19:01:56              Solver: Successful [0 hours, 0 min., 32 sec.]
+2026-07-05 19:01:56   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1
+                         W = 0.26
+2026-07-05 19:01:59   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 19:02:27              Solver: Successful [0 hours, 0 min., 28 sec.]
+2026-07-05 19:02:27   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1.2
+                         W = 0.14
+2026-07-05 19:02:29   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 19:02:58              Solver: Successful [0 hours, 0 min., 29 sec.]
+2026-07-05 19:02:58   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1.2
+                         W = 0.16
+2026-07-05 19:03:00   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 19:03:31              Solver: Successful [0 hours, 0 min., 31 sec.]
+2026-07-05 19:03:31   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1.2
+                         W = 0.18
+2026-07-05 19:03:34   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 19:04:06              Solver: Successful [0 hours, 0 min., 32 sec.]
+2026-07-05 19:04:06   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1.2
+                         W = 0.2
+2026-07-05 19:04:08   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 19:04:36              Solver: Successful [0 hours, 0 min., 28 sec.]
+2026-07-05 19:04:36   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1.2
+                         W = 0.22
+2026-07-05 19:04:39   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-05 19:05:13              Solver: Successful [0 hours, 0 min., 34 sec.]
+2026-07-05 19:05:13   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1.2
+                         W = 0.24
+2026-07-05 19:05:15   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 19:05:46              Solver: Successful [0 hours, 0 min., 31 sec.]
+2026-07-05 19:05:46   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         Gap = 1.2
+                         W = 0.26
+2026-07-05 19:05:48   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-05 19:06:20              Solver: Successful [0 hours, 0 min., 32 sec.]
+2026-07-05 19:06:20   --------------------------------------------------------------------------
+2026-07-05 19:06:20   
+                      ==========================================================================
+                      Total structure update time: 0 hours, 0 min., 51 sec.
+                            Total evaluation time: 0 hours, 17 min., 45 sec.
+                      ==========================================================================
