@@ -178,7 +178,7 @@ Generated results are reproducible from the supplied input data and are therefor
 
 The MATLAB analysis can be reproduced from the exported `.s4p` files and `parameter_sweep_log.txt`; the CST project itself is not required for post-processing.
 
-The repository is intended to provide the code and representative data associated with the methodology described in the manuscript. A versioned archival release will also be deposited in Zenodo so that the exact code/data state cited by the paper remains permanently accessible.
+The repository provides the code and complete sweep data associated with the methodology described in the manuscript. Release `v1.0.0` will represent the code and data state used for the manuscript, and a versioned archival copy will also be deposited in Zenodo so that the exact version cited by the paper remains permanently accessible.
 
 ## License
 
