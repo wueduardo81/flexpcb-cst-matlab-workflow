@@ -1,0 +1,14 @@
+# MATLAB temporary/generated files
+*.asv
+*.m~
+slprj/
+codegen/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated results (keep the folder)
+results/*
+!results/.gitkeep
