@@ -1,5 +1,8 @@
 # CST–MATLAB Workflow for Mixed-Mode Signal-Integrity Evaluation of Flexible PCB Differential Links
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23405011.svg)](https://doi.org/10.5281/zenodo.23405011)
+
 This repository contains the MATLAB post-processing workflow associated with the manuscript:
 
 **A CST–MATLAB Workflow for Mixed-Mode Signal-Integrity Evaluation and Multi-Objective Geometry Selection in Flexible PCB Differential Links**
@@ -190,4 +193,4 @@ Any third-party software, CST models, or externally licensed material are not co
 
 Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 
-Once the associated paper and Zenodo archival release receive persistent identifiers, the repository metadata and this section will be updated with the final DOI information.
+Release `v1.0.1` is archived in Zenodo with DOI [`10.5281/zenodo.23405011`](https://doi.org/10.5281/zenodo.23405011).
