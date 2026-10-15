@@ -21,3 +21,7 @@ abstract: >-
   MATLAB post-processing workflow for mixed-mode signal-integrity evaluation
   and multi-objective geometry selection of flexible PCB differential links
   using 4-port Touchstone data exported from CST Studio Suite parameter sweeps.
+
+version: "1.0.1"
+date-released: "2026-10-15"
+doi: "10.5281/zenodo.23405011"
